@@ -1,0 +1,15 @@
+div{
+background: darkgreen;
+border-radius: 2%;
+box-shadow: rgb(86, 127, 2);
+padding: 2px;
+}
+
+h1{
+    text-align: center;
+    color:rgb(34, 209, 209)
+    font-family:cambria, cochin, georgia, times,"times new roman",seril;
+}
+img{
+    width: 40px;
+}
